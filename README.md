@@ -20,6 +20,7 @@ Praktisi & akademisi Islamic finance 21+ tahun | Konsultan OJK & Bappenas | Foun
 | 03 | [Mesin Uang Edisi Crypto](#ep-03--mesin-uang-edisi-crypto) | Stablecoin Kalahkan Volume Transaksi Visa Mastercard | 17 mnt | [▶ Spotify](https://open.spotify.com/episode/280pu8YlIUPNGkxoN4JSVG) |
 | 04 | [Gaji Numpang Lewat](#ep-04--gaji-numpang-lewat) | Paycheck to Paycheck → Passive Income | 20 mnt | [▶ Spotify](https://open.spotify.com/episode/1jpz2fJ5Mdzt18Ay28BhPd) |
 | 05 | [Berhenti Menjual Waktu, Mulai Bangun Aset](#ep-05--berhenti-menjual-waktu-mulai-bangun-aset) | Mindset + Action: Bangun Aset Passive Income | 34 mnt | [▶ Spotify](https://open.spotify.com/episode/4EzjPhsopYpr8qio4B4Rai) |
+| 06 | [Saat AI Belanja Sendiri Pakai Kripto](#ep-06--saat-ai-belanja-sendiri-pakai-kripto) | AI Agent + Stablecoin = Agent-to-Agent Economy | 20 mnt | [▶ Spotify](https://open.spotify.com/episode/0cuDyd8JpASlDvjoCaZseC) |
 
 ---
 
@@ -73,6 +74,16 @@ Praktisi & akademisi Islamic finance 21+ tahun | Konsultan OJK & Bappenas | Foun
 > Bukan motivasi. Ini perubahan cara berpikir yang didukung langkah nyata: instrumen, strategi, dan blueprint yang bisa langsung dijalankan.
 
 📎 [Shownotes](episodes/ep05-berhenti-menjual-waktu.md) | [▶ Dengarkan](https://open.spotify.com/episode/4EzjPhsopYpr8qio4B4Rai)
+
+---
+
+### Ep. 06 — Saat AI Belanja Sendiri Pakai Kripto
+**Durasi:** 20 menit | **Rilis:** 1 Juli 2026  
+**Topik:** AI agent bertransaksi pakai stablecoin — era agent-to-agent economy
+
+> AI sekarang nggak cuma mikir, tapi juga checkout. Gimana rasanya saat AI belanja pakai stablecoin sendiri?
+
+📎 [Shownotes](episodes/ep06-ai-belanja-pakai-kripto.md) | [▶ Dengarkan](https://open.spotify.com/episode/0cuDyd8JpASlDvjoCaZseC)
 
 ---
 
