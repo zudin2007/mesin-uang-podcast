@@ -21,6 +21,7 @@ Praktisi & akademisi Islamic finance 21+ tahun | Konsultan OJK & Bappenas | Foun
 | 04 | [Gaji Numpang Lewat](#ep-04--gaji-numpang-lewat) | Paycheck to Paycheck → Passive Income | 20 mnt | [▶ Spotify](https://open.spotify.com/episode/1jpz2fJ5Mdzt18Ay28BhPd) |
 | 05 | [Berhenti Menjual Waktu, Mulai Bangun Aset](#ep-05--berhenti-menjual-waktu-mulai-bangun-aset) | Mindset + Action: Bangun Aset Passive Income | 34 mnt | [▶ Spotify](https://open.spotify.com/episode/4EzjPhsopYpr8qio4B4Rai) |
 | 06 | [Saat AI Belanja Sendiri Pakai Kripto](#ep-06--saat-ai-belanja-sendiri-pakai-kripto) | AI Agent + Stablecoin = Agent-to-Agent Economy | 20 mnt | [▶ Spotify](https://open.spotify.com/episode/0cuDyd8JpASlDvjoCaZseC) |
+| 07 | [Saat Agen AI Punya Dompet Kripto Sendiri](#ep-07--saat-agen-ai-punya-dompet-kripto-sendiri) | AI Wallet Native + Framework 3 Dompet | 30 mnt | [▶ Spotify](https://open.spotify.com/episode/7swdWjUlEuPV1ShgOwyNdH) |
 
 ---
 
@@ -84,6 +85,16 @@ Praktisi & akademisi Islamic finance 21+ tahun | Konsultan OJK & Bappenas | Foun
 > AI sekarang nggak cuma mikir, tapi juga checkout. Gimana rasanya saat AI belanja pakai stablecoin sendiri?
 
 📎 [Shownotes](episodes/ep06-ai-belanja-pakai-kripto.md) | [▶ Dengarkan](https://open.spotify.com/episode/0cuDyd8JpASlDvjoCaZseC)
+
+---
+
+### Ep. 07 — Saat Agen AI Punya Dompet Kripto Sendiri
+**Durasi:** 30 menit | **Rilis:** 1 Juli 2026  
+**Topik:** AI wallet native, framework 3 dompet, dan cara siap-siap sebagai investor Muslim
+
+> AI nggak cuma jawab chat. Sekarang dia bisa bayar, terima, dan kelola stablecoin sendiri. Masa depan bukan manusia pakai AI — tapi AI yang pakai uang.
+
+📎 [Shownotes](episodes/ep07-agen-ai-punya-dompet-kripto.md) | [▶ Dengarkan](https://open.spotify.com/episode/7swdWjUlEuPV1ShgOwyNdH)
 
 ---
 
