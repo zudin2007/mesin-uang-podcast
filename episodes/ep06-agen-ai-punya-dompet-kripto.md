@@ -1,19 +1,21 @@
-# Ep. 07 — Saat Agen AI Punya Dompet Kripto Sendiri
+# Ep. 06 — Saat Agen AI Punya Dompet Kripto Sendiri
 
 **Podcast:** Mesin Uang by IFBTC  
 **Durasi:** 30 menit  
 **Spotify:** [Dengarkan di sini](https://open.spotify.com/episode/7swdWjUlEuPV1ShgOwyNdH)  
 **Rilis:** 1 Juli 2026  
 
+> **Fokus episode ini:** cara aman kelola AI yang pegang uang — framework & kontrol. Untuk angle peluang bisnisnya, lanjut ke [Ep. 07](ep07-ai-belanja-pakai-kripto.md).
+
 ---
 
 ## Deskripsi Episode
 
-AI nggak cuma jawab chat. Sekarang dia bisa bayar, terima, dan kelola stablecoin sendiri.
+Untuk pertama kali dalam sejarah, AI punya rekening — dan ini bukan metafora.
 
 Bayangin asisten AI yang nggak minta gaji, tapi punya dompet sendiri. Dia bisa belanja API, bayar freelancer, staking stablecoin, bahkan nego harga — 24/7 tanpa tidur.
 
-Kalau kamu masih mikir crypto cuma buat trading, episode ini bakal ubah cara pandangmu. Karena masa depan bukan manusia pakai AI — tapi AI yang pakai uang.
+Episode ini fokus pada satu pertanyaan krusial: kalau AI bisa pegang uang, bagaimana cara kamu tetap dalam kontrol? Di sini kita bahas framework dan perlindungannya — bukan sekadar kagum dengan teknologinya.
 
 🎙️ *Mesin Uang by IFBTC — Ekosistem Passive Income untuk Muslim Indonesia*
 
@@ -54,5 +56,5 @@ Framework ini membantu menjaga AI agent tetap dalam batas aman tanpa menutup fle
 
 ## Lanjutan
 
-- Episode sebelumnya: [Ep. 06 — Saat AI Belanja Sendiri Pakai Kripto](ep06-ai-belanja-pakai-kripto.md)
-- Roadmap episode berikutnya: [ROADMAP.md](../ROADMAP.md)
+- Episode sebelumnya: [Ep. 05 — Berhenti Menjual Waktu, Mulai Bangun Aset](ep05-berhenti-menjual-waktu.md)
+- Episode berikutnya: [Ep. 07 — Saat AI Belanja Sendiri Pakai Kripto](ep07-ai-belanja-pakai-kripto.md)

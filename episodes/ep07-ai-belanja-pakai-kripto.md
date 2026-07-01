@@ -1,9 +1,11 @@
-# Ep. 06 — Saat AI Belanja Sendiri Pakai Kripto
+# Ep. 07 — Saat AI Belanja Sendiri Pakai Kripto
 
 **Podcast:** Mesin Uang by IFBTC  
 **Durasi:** 20 menit  
 **Spotify:** [Dengarkan di sini](https://open.spotify.com/episode/0cuDyd8JpASlDvjoCaZseC)  
 **Rilis:** 1 Juli 2026  
+
+> **Fokus episode ini:** peluang bisnis baru — siapa yang siap jual ke AI? Untuk cara aman kelola dompet AI-nya, lihat [Ep. 06](ep06-agen-ai-punya-dompet-kripto.md).
 
 ---
 
@@ -13,7 +15,7 @@ AI sekarang nggak cuma mikir, tapi juga checkout.
 
 Dulu kita yang belanja pakai AI buat cari barang termurah. Sekarang kebalikannya: AI yang belanja sendiri, bayar sendiri, pakai dompet kriptonya sendiri.
 
-Di episode ini kita bedah fenomena yang lagi kejadian di 2026 — dan apa artinya buat kamu sebagai investor, pebisnis, atau builder Muslim Indonesia.
+Episode ini fokus pada sisi peluang: pasar baru terbuka untuk pebisnis, builder, dan investor Indonesia yang bergerak lebih awal. Karena pelanggan berikutnya bisa jadi bukan manusia.
 
 🎙️ *Mesin Uang by IFBTC — Ekosistem Passive Income untuk Muslim Indonesia*
 
@@ -58,5 +60,5 @@ Di episode ini kita bedah fenomena yang lagi kejadian di 2026 — dan apa artiny
 
 ## Lanjutan
 
-- Episode sebelumnya: [Ep. 05 — Berhenti Menjual Waktu, Mulai Bangun Aset](ep05-berhenti-menjual-waktu.md)
+- Episode sebelumnya: [Ep. 06 — Saat Agen AI Punya Dompet Kripto Sendiri](ep06-agen-ai-punya-dompet-kripto.md)
 - Roadmap episode berikutnya: [ROADMAP.md](../ROADMAP.md)
