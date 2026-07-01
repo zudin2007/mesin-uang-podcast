@@ -32,7 +32,9 @@ mesin-uang-podcast/
     ├── ep02-mindset-mesin-uang.md
     ├── ep03-mesin-uang-edisi-crypto.md
     ├── ep04-gaji-numpang-lewat.md
-    └── ep05-berhenti-menjual-waktu.md
+    ├── ep05-berhenti-menjual-waktu.md
+    ├── ep06-agen-ai-punya-dompet-kripto.md
+    └── ep07-ai-belanja-pakai-kripto.md
 ```
 
 ---
@@ -90,6 +92,13 @@ mesin-uang-podcast/
 - The `## Referensi` section may be omitted if the episode has no external references.
 - The `## Lanjutan` section uses relative links within `episodes/` (e.g., `ep04-gaji-numpang-lewat.md`), except `ROADMAP.md` which is referenced as `../ROADMAP.md`.
 - For the most recent episode, use `../ROADMAP.md` as the "next" link.
+- Extra `##` sections beyond the template (e.g., `## Framework "3 Dompet" dari Episode` in ep06, `## Konsep Kunci` and `## Checklist 3 Langkah dari Episode` in ep07) are allowed when an episode has structured content worth extracting into a table or list. Keep the core sections (Deskripsi, Poin Utama, Referensi, Lanjutan) in place regardless.
+
+**Companion episodes:** When two episodes cover different angles of the same topic released together (e.g., Ep. 06 "cara aman kelola AI wallet" and Ep. 07 "peluang bisnis agent-to-agent"), add a blockquote directly under the metadata block (before the `---`) cross-linking them, e.g.:
+```markdown
+> **Fokus episode ini:** cara aman kelola AI yang pegang uang — framework & kontrol. Untuk angle peluang bisnisnya, lanjut ke [Ep. 07](ep07-ai-belanja-pakai-kripto.md).
+```
+Each episode in the pair links to the other with a one-line description of its distinct angle.
 
 ---
 
@@ -127,13 +136,16 @@ Tracks all episode planning. Two main sections:
 
 When an episode is published, move its row from Pipeline to the Published table and mark `✅ Live`.
 
-**Content series currently planned:**
+**Content series currently planned (pipeline, not yet published):**
 | Series | Episodes |
 |--------|----------|
-| Passive Income Halal | Ep 06–09 (reksa dana, ORI/SBN, DIRE/REIT, saham dividen) |
-| Crypto & Islamic Finance | Ep 10–14 (Bitcoin halal/haram, stablecoin, Kaspa, DeFi, tokenisasi) |
-| Mindset & Sistem | Ep 15–18 (3-Layer system, compounding, skill as asset, zakat kripto) |
-| OJK & Regulasi | Ep 19–21 (POJK 27/2024, DAKS, DSN-MUI fatwa) |
+| Passive Income Halal | Ep 08–11 (reksa dana, ORI/SBN, DIRE/REIT, saham dividen) |
+| Crypto & Islamic Finance | Ep 12–16 (Bitcoin halal/haram, stablecoin, Kaspa, DeFi, tokenisasi) |
+| AI Agent Economy & Islamic Finance | Ep 17–18 (zakat untuk AI agent, akad muamalat di era AI) |
+| Mindset & Sistem | Ep 19–22 (3-Layer system, compounding, skill as asset, zakat kripto) |
+| OJK & Regulasi | Ep 23–25 (POJK 27/2024, DAKS, DSN-MUI fatwa) |
+
+Note: Ep. 06–07 ("Saat Agen AI Punya Dompet Kripto Sendiri" / "Saat AI Belanja Sendiri Pakai Kripto") were an ad-hoc pair published ahead of the originally planned pipeline order — episode numbers are assigned by publish order, not by series grouping.
 
 ---
 
